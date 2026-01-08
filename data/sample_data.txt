@@ -1,0 +1,2 @@
+Sample medical dataset.
+Full WebMD dataset will be integrated in later phases.
